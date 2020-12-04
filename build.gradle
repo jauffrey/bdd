@@ -23,7 +23,7 @@ targetCompatibility = 1.8
 
 dependencies {
     compile 'net.serenity-bdd:serenity-core:2.3.2'
-    compile 'net.serenity-bdd:serenity-jbehave:1.46.0'
+    compile 'net.serenity-bdd:serenity-junit:2.3.2'
     testCompile('junit:junit:4.12')
 }
 gradle.startParameter.continueOnFailure = true
